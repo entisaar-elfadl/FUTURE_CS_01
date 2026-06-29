@@ -35,21 +35,30 @@ This assessment included:
 
 ### Repository Structure
 FUTURE_CS_01
+
 │
+
 ├── Evidence
+
 │   ├── header_scanner.png
+
 │   ├── header_scanner2.png
+
 │   ├── nmap_screenshot.png
+
 │   └── security_headers.png
+
 ├── Report
+
 │   ├── Task 1 Report.pdf
+
 ├── README.md
 
 ### Overall Risk Assessment
 The assessment identified several low and medium risk security observations. While the application implements some security controls, improvements such as implementing additional HTTP security headers and reviewing exposed services would strengthen its overall security posture.
 
 ### Key Findings
-The assessment identified several security observations, including:
+The assessment identisfied several security observations, including:
 
 - Multiple publicly exposed network services
 - Security header configuration observations
@@ -61,6 +70,9 @@ This assessment was conducted for educational purposes as part of the Future Int
 
 ### Author
 **Entisaar Elfadl**
+
 Bachelor of Business Science (Computer Science)
+
 University of Cape Town
+
 Future Interns Cyber Security Intern (2026)
