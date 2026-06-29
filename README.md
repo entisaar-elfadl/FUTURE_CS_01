@@ -35,23 +35,14 @@ This assessment included:
 
 ### Repository Structure
 FUTURE_CS_01
-
 │
-
 ├── Evidence
-
 │   ├── header_scanner.png
-
 │   ├── header_scanner2.png
-
 │   ├── nmap_screenshot.png
-
 │   └── security_headers.png
-
 ├── Report
-
 │   ├── Task 1 Report.pdf
-
 ├── README.md
 
 ### Overall Risk Assessment
