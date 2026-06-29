@@ -34,6 +34,7 @@ This assessment included:
 5. Documented findings and recommended remediation steps.
 
 ### Repository Structure
+```text
 FUTURE_CS_01
 │
 ├── Evidence
@@ -42,9 +43,9 @@ FUTURE_CS_01
 │   ├── nmap_screenshot.png
 │   └── security_headers.png
 ├── Report
-│   ├── Task 1 Report.pdf
+│   └── Task 1 Report.pdf
 ├── README.md
-
+```
 ### Overall Risk Assessment
 The assessment identified several low and medium risk security observations. While the application implements some security controls, improvements such as implementing additional HTTP security headers and reviewing exposed services would strengthen its overall security posture.
 
